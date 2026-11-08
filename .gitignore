@@ -1,0 +1,9 @@
+---
+
+### 6. `.gitignore`
+```text
+__pycache__/
+*.pyc
+output.json
+.vscode/
+.idea/
